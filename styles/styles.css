@@ -1,3 +1,5 @@
 .red-text{
-    color: red
+    color: red;
+    font-size: 60px;
+    border: solid red 20px;
 }
